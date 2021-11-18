@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Halim Bilici
+- 👀 I’m interested in codes.
+- 🌱 I’m currently learning programing.
